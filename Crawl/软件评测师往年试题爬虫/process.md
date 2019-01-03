@@ -42,3 +42,8 @@ for url in urls:
 '''
 
 注意IPython可以使用诸如`cd`, `mkdir`, `pwd`等Linux命令，注意切换到合适的目录再下载
+
+## 4. 参考链接
+- [xpath高级用法](https://www.jianshu.com/p/1575db75670f)
+- [微软xpath文档](https://docs.microsoft.com/zh-cn/previous-versions/dotnet/netframework-2.0/ms256086(v=vs.80))
+- [requests官方文档](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html)
